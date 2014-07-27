@@ -1,4 +1,4 @@
 gauche
 ======
 
-An edge http caching proxy
+An unsophisticated and socially awkward edge http caching proxy
